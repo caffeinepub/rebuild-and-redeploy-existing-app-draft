@@ -1,0 +1,11 @@
+{
+  "frontend/src/App.tsx": "Main application component with TanStack Router setup, theme provider, and authentication-based routing logic.",
+  "frontend/src/components/Layout.tsx": "Layout wrapper component with header navigation, theme toggle, logout functionality, and footer with caffeine.ai attribution.",
+  "frontend/src/pages/LoginPage.tsx": "Landing page with Internet Identity login, featuring hero section with benefits cards and call-to-action with all required icon imports.",
+  "frontend/src/pages/DashboardPage.tsx": "Member dashboard displaying welcome banner, points balance, member status, earning opportunities, and quick action links with all required icon imports.",
+  "frontend/src/pages/ProfilePage.tsx": "Profile management page with avatar upload functionality, member information display, and points balance overview with fixed Tailwind class conflict.",
+  "frontend/src/pages/MarketplacePage.tsx": "Marketplace page displaying available products with purchase functionality, points requirements, and user balance checking.",
+  "frontend/src/hooks/useQueries.ts": "React Query hooks for all backend operations including member registration, avatar updates, product fetching, and purchases.",
+  "frontend/src/index.css": "Global styles with OKLCH-based color system featuring purple/violet primary colors and pink accents for both light and dark modes.",
+  "frontend/tailwind.config.js": "Tailwind configuration with extended color palette, custom utilities, and design tokens matching the purple/pink theme."
+}
